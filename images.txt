@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 jc21/nginx-proxy-manager:latest
 #eyeblue/tank:4.0.4
-minio/minio:RELEASE.2022-02-18T01-50-10Z
+#minio/minio:RELEASE.2022-02-18T01-50-10Z
+nginx:1.27.0
