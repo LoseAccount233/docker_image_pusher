@@ -7,4 +7,5 @@
 #--platform=linux/arm64 jc21/nginx-proxy-manager:latest
 #eyeblue/tank:4.0.4
 #minio/minio:RELEASE.2022-02-18T01-50-10Z
-nginx:1.27.0
+#nginx:1.27.0
+ghcr.io/open-webui/open-webui:main
