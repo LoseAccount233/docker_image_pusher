@@ -11,4 +11,5 @@
 #ghcr.io/open-webui/open-webui:main
 #zmister/mrdoc:v8
 #keking/kkfileview
-lgs821/ifile
+#lgs821/ifile
+jenkins/jenkins:lts-jdk17
