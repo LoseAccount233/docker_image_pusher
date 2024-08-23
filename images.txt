@@ -14,5 +14,5 @@
 #lgs821/ifile
 #jenkins/jenkins:lts-jdk17
 #cloudreve/cloudreve:latest
-seafileltd/seafile-mc:11.0-latest
+#seafileltd/seafile-mc:11.0-latest
 seafileltd/seafile:latest
