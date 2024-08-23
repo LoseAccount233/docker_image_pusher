@@ -12,4 +12,5 @@
 #zmister/mrdoc:v8
 #keking/kkfileview
 #lgs821/ifile
-jenkins/jenkins:lts-jdk17
+#jenkins/jenkins:lts-jdk17
+cloudreve/cloudreve:latest
