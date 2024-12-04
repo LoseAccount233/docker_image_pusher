@@ -22,4 +22,5 @@
 #minio/minio:RELEASE.2022-02-18T01-50-10Z
 #docker.io/mongo:4.4.22
 #nacos/nacos-server:v2.2.0
-sonatype/nexus3:3.40.0
+#sonatype/nexus3:3.40.0
+node:14
