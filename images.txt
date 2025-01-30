@@ -24,4 +24,5 @@
 #nacos/nacos-server:v2.2.0
 #sonatype/nexus3:3.40.0
 #node:14
-lozyme/sockd
+#lozyme/sockd
+neo4j:5.26.1-community
