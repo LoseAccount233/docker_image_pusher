@@ -25,4 +25,5 @@
 #sonatype/nexus3:3.40.0
 #node:14
 #lozyme/sockd
-neo4j:5.26.1-community
+#neo4j:5.26.1-community
+apache/skywalking-oap-server:8.16.0
