@@ -27,3 +27,4 @@
 #lozyme/sockd
 #neo4j:5.26.1-community
 apache/skywalking-oap-server:8.16.0
+ghcr.io/he0119/open-webui:0.5.16-reasoning
